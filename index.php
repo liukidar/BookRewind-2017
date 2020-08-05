@@ -126,7 +126,7 @@ if (isset($_POST['ajax-login'])) {
                                 });
                             }
                         </script>
-                        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCAt_o8FK7xvcAMkD4hPp3ucXxrsDZT_dU&callback=setupMap"></script>
+                        <script src="https://maps.googleapis.com/maps/api/js?key=...&callback=setupMap"></script>
                     </div>
                 </div>
             </div>
