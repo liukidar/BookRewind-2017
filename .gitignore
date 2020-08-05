@@ -1,0 +1,7 @@
+.idea
+.vscode
+.htaccess
+.htpasswd
+lib/config.php
+lib/fpdf
+lib/phpmailer
